@@ -1,1 +1,1 @@
-Config files for tmux. WARNING -> .tmux?!
+https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles
